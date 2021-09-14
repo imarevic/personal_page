@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Evidence and Probability before Existence of Probability Theory
+title: Evidence and Probability before the Existence of Probability Theory
 lastedited: "2021-09-15"
 ---
 

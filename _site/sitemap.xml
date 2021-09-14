@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/blog.html</loc>
+</url>
+<url>
+<loc>/data_privacy.html</loc>
+</url>
+<url>
+<loc>/imprint.html</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/notes.html</loc>
+</url>
+<url>
+<loc>/projects.html</loc>
+</url>
+<url>
+<loc>/publications.html</loc>
+</url>
+</urlset>
