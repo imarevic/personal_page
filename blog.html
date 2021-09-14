@@ -1,0 +1,23 @@
+---
+layout: default
+title: Posts
+---
+<h4><strong>Posts</strong></h4>
+<br>
+  {% for post in site.posts %}
+  <div class="card bg-light border-secondary mb-3">
+            <div class="card-header">
+              <h5><a class="post-list-headings" href="{{ post.url }}">{{ post.title }}</a></h5>
+            </div>
+                  <div class="card-body">
+                      <p class="card-text">{{ post.excerpt }}</p>
+                      <p class="card-text post-list-meta">
+                          <small class="text-muted">Created: {{ post.date | date_to_string }}</small>
+                      </p>
+                      <p class="card-text post-list-meta">
+                      <small class="text-muted">Last edited: {{ post.lastedited | date_to_string}}</small>
+                      </p>
+              </div>
+      </div>
+  {% endfor %}
+  <br><br>

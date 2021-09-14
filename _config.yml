@@ -1,0 +1,11 @@
+
+
+sass:
+  sass_dir: assets/css
+
+
+title: "Ivan Marevics Homepage"
+email: "ivan_marevic@web.de"
+author: Ivan Marevic
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog

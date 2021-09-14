@@ -1,0 +1,21 @@
+I"<h4 id="projects"><strong>Projects</strong></h4>
+<p><br /></p>
+
+<h5 id="stock-tracker"><a href="https://github.com/imarevic/stock_tracker"><strong><em>Stock Tracker</em></strong></a></h5>
+<p>A stock tracking service that sends stock drops of a predefined percentage twice a day via mail.</p>
+
+<hr />
+
+<h5 id="tennis-stats-dashboard"><a href="https://github.com/imarevic/mbp_analytics"><strong><em>Tennis Stats Dashboard</em></strong></a></h5>
+<p>A tennis stats analytics dashboard using data from German tennis matches tracking site.</p>
+
+<hr />
+
+<h5 id="lindy-books"><a href="https://github.com/imarevic/lindy_books"><strong><em>Lindy Books</em></strong></a></h5>
+<p>Notebook service displaying books that show lindy characteristics on NY-Times Bestseller lists over time.</p>
+
+<hr />
+
+<h5 id="psychology-experiments-in-python"><a href="https://github.com/imarevic/psy_python_course"><strong><em>Psychology Experiments in Python</em></strong></a></h5>
+<p>A course on how to code up cognitive computer experiments in Python and Pygame.</p>
+:ET
