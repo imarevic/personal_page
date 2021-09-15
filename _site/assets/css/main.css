@@ -2058,7 +2058,16 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 html, body { background-color: #e6ecf0; font-family: 'Open Sans', sans-serif; display: flex; flex-flow: column; height: 100%; }
 
-.cover-container { max-width: 60vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; }
+/* media breakpints */
+.cover-container { max-width: 90vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; }
+
+@media (min-width: 576px) { .cover-container { max-width: 80vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; } }
+
+@media (min-width: 768px) { .cover-container { max-width: 80vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; } }
+
+@media (min-width: 992px) { .cover-container { max-width: 60vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; } }
+
+@media (min-width: 1200px) { .cover-container { max-width: 60vw; background-color: white; box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; flex-grow: 1; } }
 
 .content-layer { font-family: 'Garamond', serif; padding-left: 25px; padding-right: 25px; }
 
