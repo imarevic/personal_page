@@ -7,6 +7,37 @@ title: Notes
 *(philosophy, literature, probability theory, statistics, and mathematics)*
 
 ----
+
+##### Distorting ancient legal proofs to match ones need (Criticism of the witchcraft trials)
+The German Jesuit priest, poet and canon lawyer Friedrich von Spee was one of many critics of the legal twists in logic applied in the witchcraft trials of the 17th century. In his notable work *Cautio Criminalis* he states that ancient proofs in law have been misused, so the accused has no chance of clearing her name:
+
+> [...] either Gaia has led a bad and improper life, or she has led a good and proper one. If a bad one, then, they say,
+the proof is cogent against her; for from malice to malice the presumption is strong,. If, however, she has led a good one,
+this also is none the less a proof; for thus, they say, are witches wont to cloak themselves and try to seem especially proper.
+
+He further notices that if such reasoning continues to be applied, sooner or later all people will be found guilty as
+escape from the deterministic proofs is not possible.
+
+----
+
+##### Nietsche aphorisms
+
+"Formel meines Glücks: ein Ja, ein Nein, eine gerade Linie, ein Ziel ..."
+
+"Du läufst voran? - Tust du das als Hirt; oder als Ausnahme? Ein dritter Fall wäre der Entlaufene ... *Erste Gewissensfrage*."
+
+"Bist du echt? oder nur ein Schauspieler? Ein Vertreter? oder das Vertretene selbst? - Zuletzt bist du gar bloß ein nachgemachter Schauspieler ... *Zweite Gewissensfrage*."
+
+"Bist du einer, der zusieht? oder der Hand anlegt? - oder der wegsieht, beiseite geht ... *Dritte Gewissensfrage*."
+
+"Willst du mitgehn? oder vorangehn? oder für dich gehn?..Man muss wissen, was man will und dass man will. ... *Vierte Gewissensfrage*."
+
+"Posthume Menschen - ich zum Beispiel - werden schlechter verstanden als zeitgemäße, aber besser *gehört*. Strenger: wir werden nie verstanden - und *daher* unsre Autorität."
+
+"Ich misstraue allen Systematikern und gehe ihnen aus dem Weg. Der Wille zum System ist ein Mangel an Rechtschaffenheit."
+
+----
+
 ##### Glossators half-proof and Postglossators degrees of evidence
 Around 1050 in Pavia some commentators on Lombard law started studying text of law in order to find passages that are at odds with each other and thus need reconciliation. These *Glossators* also defined the term ***half-proof (semiplena probatio)*** starting around 1190 (most notably Azo of Bologna):
 - If full proof is by two witnesses than half proof is by one.
@@ -21,7 +52,7 @@ The Postglossators agreed that there must be a fine grading of evidence. As Bald
 - Conjecture: Acceptance of something being true on the basis of another thing.
 - Suspicions, presumptions, conjectures and facts joined together in proof of some conclusion are valid arguments.
 
-Thus Baldus realized that at full-proof can be arrived at through argumentation (i.e. application of what we nowadays call logic). It is important to note that the Glossators and Postglossators arrived at this without the formal use of mathematics or probability theory (see Franklins book: Science of Conjecture: Evidence and Probability before Pascal).
+Thus, Baldus realized that at full-proof can be arrived at through argumentation (i.e. application of what we nowadays call logic). It is important to note that the Glossators and Postglossators arrived at this without the formal use of mathematics or probability theory (see Franklins book: Science of Conjecture: Evidence and Probability before Pascal).
 
 ----
 
