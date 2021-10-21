@@ -8,7 +8,20 @@ title: Notes
 
 ----
 
-##### Distorting ancient legal proofs to match ones need (Criticism of the witchcraft trials)
+##### Moral ethics in theology and Pascals Provincial Letters
+In the 17th century theology was dealing with a debate on moral ethics. The main point of the debate was to identify ways of behaving when in doubt and especially when the subjective alternative is in conflict with the law or codex. The issue is highly relevant for defining what is probable and what not. The following schools of thought existed:
+
+- **Tutiorism**: Always choose the safer (lat. *tutior*) option in order to avoid harm (*precautionary principle*). At that time the "safer" option was always the law.
+- **Probabiliorism**: Choose the option that seems more plausible (lat. prababilior).
+- **Aequiprobabilism**: If two equally plausible options exists, one has the freedom of choice.
+- **Probabilism**: As long as one probable and plausible alternative exists, one has the freedom to follow it, even though another more probable one might exist.
+- **Laxism**: Follow whatever probable alternative exists. A questionable law does not bind one to follow it (*lex dubia non obligat*).
+
+In the *Provincial Letters* Pascal mocks laxists views and the use of probabilism to justify any action. The letters are a literary master piece with the use of humor in dialogues being way ahead of Pascals time.
+
+----
+
+##### Distorting ancient legal methods of proof to match ones need (Criticism of the witchcraft trials)
 The German Jesuit priest, poet and canon lawyer Friedrich von Spee was one of many critics of the legal twists in logic applied in the witchcraft trials of the 17th century. In his notable work *Cautio Criminalis* he states that ancient proofs in law have been misused, so the accused has no chance of clearing her name:
 
 > [...] either Gaia has led a bad and improper life, or she has led a good and proper one. If a bad one, then, they say,
