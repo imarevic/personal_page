@@ -8,6 +8,40 @@ title: Notes
 
 ----
 
+##### Roman Rhetoric (Cicero & Quintilian & commentators)
+Most divisions of probability related concepts in roman rhetoric domianted by Cicero and Qunitilian can be summarized in the following graph (adapted form [Franklin, Science of Conjecture p. 119] based on Victorinuses commentary of Ciceros *De Inventione*):
+
+<img class="img-size-setter" src="/assets/images/notes/cicero_probability_logic_graph.png" alt="cicero_probability_logic_graph" width="600"/>
+
+----
+
+##### Rhetoric and logic in ancient Greece
+A first indication towards the use of probability and probabilistic thinking in ancient Greece is evident from the use of words related to probability in the Greek vocabulary:
+- *phiton* => persuasive, plausible, convincing
+- *eikos* => like, likely
+
+In the fifth century B.C. Athens had a long period of democracy, so the use of arguments based on probability in rhetoric was useful for politicians and academics in debates. The use of persuasive arguments was taught by the Sophists, especially by their major representatives Gorgias and Antiphon. The following excerpt from Plato on Gorgias illustrates the importance:
+
+> who saw that likelihoods (eiksta) are more to be esteemed than truths, who make small things seem great and great things small
+by the power of their words.
+
+In ancient Greece the major works on logic and probability came from Aristotle and his commentators (especially the *Rhetoric*, *Topics* and *Rhetoric to Alexander* and comments on these). Aristotle distinguishes sharply between the use of logic to persuade (dialect) and sophism (rhetoric). Thus, the use of probability in arguments can uncover thruth but sometimes might also be used to simply persuade an oponent in a debate.
+Aristotle stresses the use of induction in either case:
+
+> Ideally, one will know that all As are Bs with certainty because one will understand *why* any A must be a B - even in very empirical sciences like medicine.
+
+In his *Topics* Aristotle distinguishes between three types of dialectical reasoning:
+
+- **The demonstrative**: necessary truths follow from necessary premises.
+- **The dialectical**: reasoning from accepted opinions (*endoxon*) which are agreed upon by all, the most, or the wise.
+- **The eristic (fallacious)**: reasoning based on opinions which appear to be *endoxa* but ar not.
+
+Only few occurences of direct mention of the word *eikos (likely)* occur in Aristitles works. Instead analogies are used frequently:
+
+> It is an accepted principle that what holds good of one of several similars, holds good for the rest.
+
+----
+
 ##### Moral ethics in theology and Pascals Provincial Letters
 In the 17th century theology was dealing with a debate on moral ethics. The main point of the debate was to identify ways of behaving when in doubt and especially when the subjective alternative is in conflict with the law or codex. The issue is highly relevant for defining what is probable and what not. The following schools of thought existed:
 

@@ -8,7 +8,8 @@ I recently read the book *The Science of Conjecture: Evidence and Probability be
 
 Given that we nowadays rely heavily on probability theory in science and industry, it was interesting to see what the origins of probability theory are and how people made judgment in the absence of the tools we have today. The book mentions that early developments of proofs to make judgments have their origins in ancient and medieval law, with some of the legal principles still in use today. The book further describes conjectures that do not rely on quantified probabilities and measure theory in areas such as logic, science, philosophy, religion, aleatory contracts, and games of chance up to the 17th century. In the following I will outline some major points of the book in these areas:
 
-##### Proof in ancient law
+##### Notion of probability in ancient law
+
 
 
 ##### Rhetoric and logic
