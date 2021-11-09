@@ -8,8 +8,14 @@ title: Notes
 
 ----
 
+##### Scholastic Rhetoric and logic
+After Aristotles work, in Europe progress on probability and logic in general was non existent because scholars of the middle ages largely did not know of these works or dismissed it (see Abelards comments on inductive reasoning). First re-appearances came in the 13th century by the Scholastics. They all forms of reasoning, be they dialectic, inductive, or via syllogisms must be probable (e.g. regarding induction one can never survey all instances). These views were also shared by Thomas Aquinas and popularized by him. Thus, after Aquinas probability was more and more introduced in everyday language. Words related to probability occur heavily in the French language => use of the word *likely* in *Brunetto Latini's* "*Li livres dou tresor*" (e.g. *voirsemblables argumens* => from things that are accustomed to happen often [likely]). *Nicole Oresme's* translations of Aristotles work pushed these developments further => first occurrence of the word *probabilite* in the translation of Aristotles "*Politics*".<br>
+In general the Scholastics favored deductive reasoning and developed procedures in applying it, which dominated courses at universities at that time.
+
+----
+
 ##### Roman Rhetoric (Cicero & Quintilian & commentators)
-Most divisions of probability related concepts in roman rhetoric domianted by Cicero and Qunitilian can be summarized in the following graph (adapted form [Franklin, Science of Conjecture p. 119] based on Victorinuses commentary of Ciceros *De Inventione*):
+Most divisions of probability related concepts in roman rhetoric dominated by Cicero and Qunitilian can be summarized in the following graph (adapted form [Franklin, Science of Conjecture p. 119] based on Victorinuses commentary of Ciceros *De Inventione*):
 
 <img class="img-size-setter" src="/assets/images/notes/cicero_probability_logic_graph.png" alt="cicero_probability_logic_graph" width="600"/>
 
@@ -25,7 +31,7 @@ In the fifth century B.C. Athens had a long period of democracy, so the use of a
 > who saw that likelihoods (eiksta) are more to be esteemed than truths, who make small things seem great and great things small
 by the power of their words.
 
-In ancient Greece the major works on logic and probability came from Aristotle and his commentators (especially the *Rhetoric*, *Topics* and *Rhetoric to Alexander* and comments on these). Aristotle distinguishes sharply between the use of logic to persuade (dialect) and sophism (rhetoric). Thus, the use of probability in arguments can uncover thruth but sometimes might also be used to simply persuade an oponent in a debate.
+In ancient Greece the major works on logic and probability came from Aristotle and his commentators (especially the *Rhetoric*, *Topics* and *Rhetoric to Alexander* and comments on these). Aristotle distinguishes sharply between the use of logic to persuade (dialect) and sophism (rhetoric). Thus, the use of probability in arguments can uncover truth but sometimes might also be used to simply persuade an opponent in a debate.
 Aristotle stresses the use of induction in either case:
 
 > Ideally, one will know that all As are Bs with certainty because one will understand *why* any A must be a B - even in very empirical sciences like medicine.
@@ -36,7 +42,7 @@ In his *Topics* Aristotle distinguishes between three types of dialectical reaso
 - **The dialectical**: reasoning from accepted opinions (*endoxon*) which are agreed upon by all, the most, or the wise.
 - **The eristic (fallacious)**: reasoning based on opinions which appear to be *endoxa* but ar not.
 
-Only few occurences of direct mention of the word *eikos (likely)* occur in Aristitles works. Instead analogies are used frequently:
+Only few occurrences of direct mention of the word *eikos (likely)* occur in Aristitles works. Instead analogies are used frequently:
 
 > It is an accepted principle that what holds good of one of several similars, holds good for the rest.
 
