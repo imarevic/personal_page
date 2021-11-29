@@ -8,6 +8,26 @@ title: Notes
 
 ----
 
+##### Probability in astronomy (Copernicus, Kepler, & Galileo)
+Even though the theories of the above scientists are nowadays considered certainties, during the time in their own writing many concepts were communicated as **probable**  instead of **certain**:
+- Copernicus describes his observations cautiously (probably out of fear from the church at that time):
+>... What therefore was most likely (*vero simillimum*) we can apply our intelligence to conceiving the movement as a whole : it is eastward, but irregular, since after that standstill between ... it is believed between al-Battani and Arzachel, as all the rest seems to be in harmony.
+
+- Kepler on Copernicus theory:
+>it us much more *probable* that there should be some one system of spheres...
+
+  At other places he states:
+>For it is much more believable that the body around the which smaller bodies revolve should be great.
+
+  Thus, Kepler formulates his theories to some degree on conjecture, but with a much higher rigor compared to Aristotle and followers. This is a first sign towards a shift from conjecture based on probability towards rigorous mathematical proof in astronomy.
+
+- Galileo on Keplers theory:
+>I do not assume the introduction of two circular motions to be impossible, nor do I pretend to draw a necessary proof from this; merely a greater *probability*. The improbability is shown for the third time ....
+
+  It is interesting to note, that in the earlier days, Galileo himself followed the Scholastic methods to arrive at conclusions as is evident from his lecture notes on a lecture by a Jesuit professor. Only later did he distance himself from these views and applied more rigorous scientific methods to his work.
+
+----
+
 ##### Scholastic Rhetoric and logic
 After Aristotles work, in Europe progress on probability and logic in general was non existent because scholars of the middle ages largely did not know of these works or dismissed it (see Abelards comments on inductive reasoning). First re-appearances came in the 13th century by the Scholastics. They all forms of reasoning, be they dialectic, inductive, or via syllogisms must be probable (e.g. regarding induction one can never survey all instances). These views were also shared by Thomas Aquinas and popularized by him. Thus, after Aquinas probability was more and more introduced in everyday language. Words related to probability occur heavily in the French language => use of the word *likely* in *Brunetto Latini's* "*Li livres dou tresor*" (e.g. *voirsemblables argumens* => from things that are accustomed to happen often [likely]). *Nicole Oresme's* translations of Aristotles work pushed these developments further => first occurrence of the word *probabilite* in the translation of Aristotles "*Politics*".<br>
 In general the Scholastics favored deductive reasoning and developed procedures in applying it, which dominated courses at universities at that time.
