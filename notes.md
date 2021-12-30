@@ -8,6 +8,31 @@ title: Notes
 
 ----
 
+##### Soft Science in ancient history
+*Physiognomics* is an example of how reasoning on experience went terrible wrong: An attempt was made to infer characteristics of a person form external appearances (e.g. The Pathic is weak-eyed and knock-kneed).
+Later *Empiricism* developed as an opposing view to *Dogmatism* in medicine:
+-  Doctrines of Dogmatism include getting at the cause of an illness through thought and deliberation and not experimentation (e.g. finding the hidden cause)
+- Empiricism focused on what cures an illness and not what caused it. Thus, observations of causes was much more important than reasoning about a cause. The *Trigod of Medicine* summarizes their view: 1. Observations by patient, 2. History of observations of others, 3. Finding analogies to related illnesses and applying same or similar treatment.
+
+*Avicenna (Ibn Sina)* introduces 7 rules in his *Canon* for careful experimentation to eliminate confounds:
+1. Medicine should be free from any acquired quality such as heat or cold with water being the exception.
+2. Experimentation must be done on a single condition and not a composite of conditions.
+3. Drugs must be tested on contrary conditions to rule out effects of the drug on both globally.
+4. Potency of a drug should be equal to the strength of the disease.
+5. One should consider the time needed for a drug to take effect.
+6. Effect of a drug should be the same in all/most cases.
+7. Experiments should be carried out on the human body.
+
+It is quite remarkable how close these rules from the 1st century resemble experimentation today, given that there was no rigorous view yet on probability theory or empirical methods.
+
+Lastly, ancient soft sciences included the verification of the authenticity of documents. In this context Lorenzo Valla argues in contrast to the scholastic school in favor of dialectic and rhetoric as outlined by Cicero, Quintilian, and Boethius. Most famous example is Vallas *Treatise* on the *Donation of Constantine* (False Decrets by emperor Constantine allegedly given to the church giving the pope reign over entire Western Empire), in which a combination of historic research and stylistic and rhetoric analysis of a text is used to authenticate or discredit it:
+- Many claims in the Donation are simply old stories from Old Testament
+- No evidence of acceptance of the donation
+- Certain words used are not found elsewhere during that time period (e.g. the word *satrap*)
+- Emendations of Valla to the text (what the author was likely to have said)
+
+----
+
 ##### Probability in astronomy (Copernicus, Kepler, & Galileo)
 Even though the theories of the above scientists are nowadays considered certainties, during the time in their own writing many concepts were communicated as **probable**  instead of **certain**:
 - Copernicus describes his observations cautiously (probably out of fear from the church at that time):
@@ -60,9 +85,9 @@ In his *Topics* Aristotle distinguishes between three types of dialectical reaso
 
 - **The demonstrative**: necessary truths follow from necessary premises.
 - **The dialectical**: reasoning from accepted opinions (*endoxon*) which are agreed upon by all, the most, or the wise.
-- **The eristic (fallacious)**: reasoning based on opinions which appear to be *endoxa* but ar not.
+- **The eristic (fallacious)**: reasoning based on opinions which appear to be *endoxa* but are not.
 
-Only few occurrences of direct mention of the word *eikos (likely)* occur in Aristitles works. Instead analogies are used frequently:
+Only few occurrences of direct mention of the word *eikos (likely)* occur in Aristotles works. Instead analogies are used frequently:
 
 > It is an accepted principle that what holds good of one of several similars, holds good for the rest.
 
