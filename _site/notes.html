@@ -10,7 +10,8 @@
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/latest.min.js" integrity="sha512-/kYnJy6+zL7+sfYX71amPypBreoBzZgp0ujTqNeFuDfLL81iqrpS8T72Q+eFL9cl47CeKW+SRabvI1XkHLtZdQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <!-- favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
@@ -33,7 +34,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Notes" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"/notes.html","headline":"Notes","author":{"@type":"Person","name":"Ivan Marevic"},"@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"/notes.html","author":{"@type":"Person","name":"Ivan Marevic"},"headline":"Notes","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -89,6 +90,68 @@
 
 <hr />
 
+<h5 id="soft-science-in-ancient-history">Soft Science in ancient history</h5>
+<p><em>Physiognomics</em> is an example of how reasoning on experience went terrible wrong: An attempt was made to infer characteristics of a person form external appearances (e.g. The Pathic is weak-eyed and knock-kneed).
+Later <em>Empiricism</em> developed as an opposing view to <em>Dogmatism</em> in medicine:</p>
+<ul>
+  <li>Doctrines of Dogmatism include getting at the cause of an illness through thought and deliberation and not experimentation (e.g. finding the hidden cause)</li>
+  <li>Empiricism focused on what cures an illness and not what caused it. Thus, observations of causes was much more important than reasoning about a cause. The <em>Trigod of Medicine</em> summarizes their view: 1. Observations by patient, 2. History of observations of others, 3. Finding analogies to related illnesses and applying same or similar treatment.</li>
+</ul>
+
+<p><em>Avicenna (Ibn Sina)</em> introduces 7 rules in his <em>Canon</em> for careful experimentation to eliminate confounds:</p>
+<ol>
+  <li>Medicine should be free from any acquired quality such as heat or cold with water being the exception.</li>
+  <li>Experimentation must be done on a single condition and not a composite of conditions.</li>
+  <li>Drugs must be tested on contrary conditions to rule out effects of the drug on both globally.</li>
+  <li>Potency of a drug should be equal to the strength of the disease.</li>
+  <li>One should consider the time needed for a drug to take effect.</li>
+  <li>Effect of a drug should be the same in all/most cases.</li>
+  <li>Experiments should be carried out on the human body.</li>
+</ol>
+
+<p>It is quite remarkable how close these rules from the 1st century resemble experimentation today, given that there was no rigorous view yet on probability theory or empirical methods.</p>
+
+<p>Lastly, ancient soft sciences included the verification of the authenticity of documents. In this context Lorenzo Valla argues in contrast to the scholastic school in favor of dialectic and rhetoric as outlined by Cicero, Quintilian, and Boethius. Most famous example is Vallas <em>Treatise</em> on the <em>Donation of Constantine</em> (False Decrets by emperor Constantine allegedly given to the church giving the pope reign over entire Western Empire), in which a combination of historic research and stylistic and rhetoric analysis of a text is used to authenticate or discredit it:</p>
+<ul>
+  <li>Many claims in the Donation are simply old stories from Old Testament</li>
+  <li>No evidence of acceptance of the donation</li>
+  <li>Certain words used are not found elsewhere during that time period (e.g. the word <em>satrap</em>)</li>
+  <li>Emendations of Valla to the text (what the author was likely to have said)</li>
+</ul>
+
+<hr />
+
+<h5 id="probability-in-astronomy-copernicus-kepler--galileo">Probability in astronomy (Copernicus, Kepler, &amp; Galileo)</h5>
+<p>Even though the theories of the above scientists are nowadays considered certainties, during the time in their own writing many concepts were communicated as <strong>probable</strong>  instead of <strong>certain</strong>:</p>
+<ul>
+  <li>Copernicus describes his observations cautiously (probably out of fear from the church at that time):
+    <blockquote>
+      <p>… What therefore was most likely (<em>vero simillimum</em>) we can apply our intelligence to conceiving the movement as a whole : it is eastward, but irregular, since after that standstill between … it is believed between al-Battani and Arzachel, as all the rest seems to be in harmony.</p>
+    </blockquote>
+  </li>
+  <li>Kepler on Copernicus theory:
+    <blockquote>
+      <p>it us much more <em>probable</em> that there should be some one system of spheres…</p>
+    </blockquote>
+
+    <p>At other places he states:</p>
+    <blockquote>
+      <p>For it is much more believable that the body around the which smaller bodies revolve should be great.</p>
+    </blockquote>
+
+    <p>Thus, Kepler formulates his theories to some degree on conjecture, but with a much higher rigor compared to Aristotle and followers. This is a first sign towards a shift from conjecture based on probability towards rigorous mathematical proof in astronomy.</p>
+  </li>
+  <li>Galileo on Keplers theory:
+    <blockquote>
+      <p>I do not assume the introduction of two circular motions to be impossible, nor do I pretend to draw a necessary proof from this; merely a greater <em>probability</em>. The improbability is shown for the third time ….</p>
+    </blockquote>
+
+    <p>It is interesting to note, that in the earlier days, Galileo himself followed the Scholastic methods to arrive at conclusions as is evident from his lecture notes on a lecture by a Jesuit professor. Only later did he distance himself from these views and applied more rigorous scientific methods to his work.</p>
+  </li>
+</ul>
+
+<hr />
+
 <h5 id="scholastic-rhetoric-and-logic">Scholastic Rhetoric and logic</h5>
 <p>After Aristotles work, in Europe progress on probability and logic in general was non existent because scholars of the middle ages largely did not know of these works or dismissed it (see Abelards comments on inductive reasoning). First re-appearances came in the 13th century by the Scholastics. They all forms of reasoning, be they dialectic, inductive, or via syllogisms must be probable (e.g. regarding induction one can never survey all instances). These views were also shared by Thomas Aquinas and popularized by him. Thus, after Aquinas probability was more and more introduced in everyday language. Words related to probability occur heavily in the French language =&gt; use of the word <em>likely</em> in <em>Brunetto Latini’s</em> “<em>Li livres dou tresor</em>” (e.g. <em>voirsemblables argumens</em> =&gt; from things that are accustomed to happen often [likely]). <em>Nicole Oresme’s</em> translations of Aristotles work pushed these developments further =&gt; first occurrence of the word <em>probabilite</em> in the translation of Aristotles “<em>Politics</em>”.<br />
 In general the Scholastics favored deductive reasoning and developed procedures in applying it, which dominated courses at universities at that time.</p>
@@ -128,10 +191,10 @@ Aristotle stresses the use of induction in either case:</p>
 <ul>
   <li><strong>The demonstrative</strong>: necessary truths follow from necessary premises.</li>
   <li><strong>The dialectical</strong>: reasoning from accepted opinions (<em>endoxon</em>) which are agreed upon by all, the most, or the wise.</li>
-  <li><strong>The eristic (fallacious)</strong>: reasoning based on opinions which appear to be <em>endoxa</em> but ar not.</li>
+  <li><strong>The eristic (fallacious)</strong>: reasoning based on opinions which appear to be <em>endoxa</em> but are not.</li>
 </ul>
 
-<p>Only few occurrences of direct mention of the word <em>eikos (likely)</em> occur in Aristitles works. Instead analogies are used frequently:</p>
+<p>Only few occurrences of direct mention of the word <em>eikos (likely)</em> occur in Aristotles works. Instead analogies are used frequently:</p>
 
 <blockquote>
   <p>It is an accepted principle that what holds good of one of several similars, holds good for the rest.</p>
