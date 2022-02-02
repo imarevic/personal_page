@@ -8,6 +8,20 @@ title: Notes
 
 ----
 
+##### Pascal's wager
+Pascal makes a philosophical argument in form of a wager with ones own life regarding the existence of God. According to the wager one should live as though God exists, because it posits the asymmetry of infinite gains with limited losses.
+The following matrix summarizes the wagers main points, with G (good exists), $$\neg G$$ (God does not exist) and the choices Belief (B) and Disbelief ($$\neg B$$):
+
+|            | G            | $$\neg G$$ |
+|------------|--------------|------------|
+| B          | $$+ \infty$$ | $$f$$      |
+| $$\neg B$$ | $$f$$        | $$f$$      |
+
+$$f$$ stands for an either positive or negative finite number.
+This formulation of Pascal forms the basis for modern decision theory.
+
+----
+
 ##### Soft Science in ancient history
 *Physiognomics* is an example of how reasoning on experience went terrible wrong: An attempt was made to infer characteristics of a person form external appearances (e.g. The Pathic is weak-eyed and knock-kneed).
 Later *Empiricism* developed as an opposing view to *Dogmatism* in medicine:
