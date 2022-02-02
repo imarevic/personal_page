@@ -13,7 +13,7 @@ Pascal makes a philosophical argument in form of a wager with ones own life rega
 The following matrix summarizes the wagers main points, with G (good exists), $$\neg G$$ (God does not exist) and the choices Belief (B) and Disbelief ($$\neg B$$):
 
 $$
-\begin{array} {|r|r|}\hline  & G & \neg G \\ \hline\hline B & + \infty & f \\ \hline \neg B & f & f \\ \hline  \end{array}
+\begin{array} {|r|r|}\hline  & G & \neg G \\ \hline\ B & + \infty & f \\ \hline \neg B & f & f \\ \hline  \end{array}
 $$
 
 $$f$$ stands for an either positive or negative finite number.
